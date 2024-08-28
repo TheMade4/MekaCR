@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "81cbae84a29ce7e770bf2bc7b178e50bda0ce8de6067aba661b0bc7b05b562f8"
+
+[[files]]
 file = "config/ftbbackups2.json"
 hash = "6da7cbdd56d35424a2fe57b7a9e1f6ed688ff1dc2a7042d0f1000644839a6f32"
 
@@ -24,7 +28,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
-hash = "0692288eb14fbbe9b92ae21fdc5f75a777d4271f6afda75204ef82d00eb916cf"
+hash = "39c501b04cad94ad53d53d0e7dee4348256185ffaa4bae950cf99ecf7f389a66"
 metafile = true
 
 [[files]]
@@ -34,12 +38,12 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
+hash = "11577b0fa86cddb2fd26083409a9dbe4a2aadc031f9627ffeb38cca55095ac67"
 metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "6c1abc7203698f420023a1655bc803113babd2dc00b2ced0e071de8b46147b5a"
+hash = "6266a2dccf05c5a931d68f6124460102fba26c9d9dcabac3be44567c392cdc29"
 metafile = true
 
 [[files]]
@@ -79,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "70cb54081f56a748b298a87d1825bac70405d4b4a28c4a4f18228691930baa34"
+hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
 metafile = true
 
 [[files]]
@@ -138,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "73108be80a7a50787e933cbb4b0c39ae6c3fcf59c68781fe731d2f692ff9f4e9"
+hash = "2e6864b02f2a52d0c5db3aca95f93017a2c99b932a727d2d77e4342796b67a76"
 metafile = true
 
 [[files]]
@@ -148,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
 metafile = true
 
 [[files]]
@@ -169,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "1ba1548e25b229c3097a310113d2929c94d6b5f183b64a0ebb2227799195cfcd"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "6e7ba460ed66f45bcf4ca6e9461ab676195b6dc50ec04ab8783fffd006dbf8b6"
 metafile = true
 
 [[files]]
@@ -208,17 +217,17 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-crawl.pw.toml"
-hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
+hash = "acb5de88c20465d65433bcd4b2ce893d849bb45e9334685bdf0bd0fa1ef9266f"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "113be3232d48dc9875189bdef468a03f61725bf4e1ed4040738ed05ea6beb4ae"
+hash = "a2b50a3ae0f73b45d393d037288073130e16e7a371f1e93ec573c5dc2efe87f8"
 metafile = true
 
 [[files]]
 file = "mods/emi-create-schematics.pw.toml"
-hash = "26ff057d209222e0f09a96f7ba412ea4c2ed169828c56f27807a30e97d39b898"
+hash = "48b342dde31288067503b412b46065c2464061b467298edde625dabb49a95d31"
 metafile = true
 
 [[files]]
@@ -233,17 +242,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "c097f7802c79561cc7dedcbd112f3b33581a5b42f2acd8c24d482ed4c90afa74"
+hash = "6ede7d65400762d3fe232cc83482983b335abe5d89ea1b0c4dba5c103df5d92f"
 metafile = true
 
 [[files]]
 file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
-hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
+hash = "42c80627653f578d7a526162570d9704d908742e7588ff8b11240e2ea993adc0"
 metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "0097517a0b26e602afe8ace322c549ae8e8c282e4ba93eee3598eccc937bce39"
+hash = "4ea3c6d927cf5bebe5661f1bbea30533271103137742b104e135823d07b497d1"
 metafile = true
 
 [[files]]
@@ -253,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
-hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+hash = "9a03163aadaad1808d41abd9140160af4541e3f3cb25394cbdfe632fa1efc3de"
 metafile = true
 
 [[files]]
@@ -278,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+hash = "e60a8e1a8559394229fbd54e3e386709f10d3a693f0d470b3708da08736efaae"
 metafile = true
 
 [[files]]
@@ -288,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
-hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+hash = "af138ead9ed4013fab79bd0ebda5cd381c982dd6513e96f13d324a06e374cdd2"
 metafile = true
 
 [[files]]
@@ -313,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "dcef11b4a1c64a35412c41868fc7afbe648c575eacf1f70194fb3ed92552758e"
+hash = "eff372a9c4a8cb37ebbcd4bad6d4e9ec6fd6f06930a7a77e72fede477463f60b"
 metafile = true
 
 [[files]]
@@ -418,12 +427,12 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
+hash = "c3c4f8d9d87104e3acdec05f53ceb0b04f8969abad49109474d9f3fdf7389b0d"
 metafile = true
 
 [[files]]
@@ -472,11 +481,6 @@ hash = "2d47877684bd91ad4c597b68bae4a8af3964011bfc0fd52e004469368f23b834"
 metafile = true
 
 [[files]]
-file = "mods/project-871698.pw.toml"
-hash = "bbc21d2cf34d36cd4d4a6dcb56b1e58cc5d0190a54c3c4115db7fa0852b5a2e9"
-metafile = true
-
-[[files]]
 file = "mods/quartz.pw.toml"
 hash = "a947d3f9d6f75fbe1e85d3bd7c3c5b7b2df9182fb4983604ef6168eef0034db2"
 metafile = true
@@ -513,17 +517,17 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "baa3801c6db3a574401e1a80477f79ad59c99015e7d8b7bed4ee476c0340145b"
+hash = "07b39be29b40ce14304e24c0674342228d697ffcc393a9d7215acb94746b222f"
 metafile = true
 
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
-hash = "c656c57a7a5c4116778fbe1432717d2d03d00382aac35ef368f842cdef4fc092"
+hash = "585ee040b35bb296ea75de7fccbe0060b6ae76b4bdace90a0e3453c1b56ce19e"
 metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+hash = "a84f8e46ba2d693bfbdec682ca66213e2e0783395c9af34f8b22d460d3952a4c"
 metafile = true
 
 [[files]]
@@ -533,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
+hash = "b14a3b185b304df8e1b48895bdc9bb08d7af7acb33ebab5aea88299cb6e40b34"
 metafile = true
 
 [[files]]
@@ -627,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+hash = "7dd38fd9ffd3ca2b765e9891e70b3411986aa6b65896526e006a54c3792dc7ba"
 metafile = true
 
 [[files]]
@@ -637,15 +641,15 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "cba00bced6af6fdf33c292498786be9197aa0a3f4cefbdc14a3219ced12997fe"
+hash = "205eaca4fba935b4a73a4afe82d50ebdca6c82dc14a40f8c071c8175a829ba24"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a01017e22438b69e560478b12aece5b8772ec4e3caa6d77070d50ea05d4ab45d"
+hash = "2cf0210f1aa7080a2070bbd07c17a9f0a7dfa2fed9c3c689fedcf2f9cc3bd871"
 metafile = true
 
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
-hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
+hash = "7aca72d7440da7045b3bff8f754027deab9924a9bb52d768977b2862f2b619e4"
 metafile = true

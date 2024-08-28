@@ -1,6 +1,6 @@
 name = "Dungeon Crawl"
 filename = "Dungeon Crawl-1.20.1-2.3.14.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

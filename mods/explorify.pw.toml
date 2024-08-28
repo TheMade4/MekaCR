@@ -1,6 +1,6 @@
 name = "Explorify – Dungeons & Structures"
 filename = "Explorify v1.6.1 f10-48.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

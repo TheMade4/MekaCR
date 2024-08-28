@@ -1,6 +1,6 @@
-name = "project-871698"
+name = "Create: Structures"
 filename = "create-structures-0.1.1-1.20.1-FORGE.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

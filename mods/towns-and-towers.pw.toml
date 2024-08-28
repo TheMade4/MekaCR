@@ -1,6 +1,6 @@
 name = "Towns and Towers"
 filename = "Towns-and-Towers-1.12-Fabric+Forge.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
