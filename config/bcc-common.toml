@@ -1,6 +1,6 @@
 [general]
 	modpackProjectID = 0
 	modpackName = "MekaCR"
-	modpackVersion = "1.0.0"
+	modpackVersion = "1.0.1"
 	useMetadata = false
 
