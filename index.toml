@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "81cbae84a29ce7e770bf2bc7b178e50bda0ce8de6067aba661b0bc7b05b562f8"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "b5e153294af73f9c59d6d5ed53dd34cb170abbd42815e8375491a51a6dadf97a"
+
+[[files]]
 file = "config/ftbbackups2.json"
 hash = "6da7cbdd56d35424a2fe57b7a9e1f6ed688ff1dc2a7042d0f1000644839a6f32"
 
@@ -79,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
 
 [[files]]
