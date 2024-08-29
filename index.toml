@@ -345,6 +345,10 @@ hash = "1d461a57d4e64d5cdb416db0ee911c150e0ac08e13335ff525b2b5d0bef5844f"
 metafile = true
 
 [[files]]
+file = "mods/jacklight-forge-1.0.0.jar"
+hash = "f81e3fbf470d5271f9a167e7375d47e23fc7e9e01d132014c530745b62c24a1d"
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "0168bb4b630667a0ec54738727619da4b81f9d84ec92501269bc8fb847ed2e9a"
 metafile = true
@@ -563,10 +567,6 @@ metafile = true
 file = "mods/spice-of-life-apple-pie-edition.pw.toml"
 hash = "2e57bb84178b5af2717a1d43b593c1efa4201587b19dc0108ddac9498ed97426"
 metafile = true
-
-[[files]]
-file = "mods/starlight-1.1.3+forge.722fc0c.jar"
-hash = "191fcb9e806c232667b906730667db394ee2da69b9295de0aaa1e525fb933216"
 
 [[files]]
 file = "mods/storage-drawers.pw.toml"
