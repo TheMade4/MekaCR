@@ -6,7 +6,7 @@ hash = "81cbae84a29ce7e770bf2bc7b178e50bda0ce8de6067aba661b0bc7b05b562f8"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "92eb7dd3907c9915053f421f3a379c21a7dde6416f837433fc1459211388c39f"
+hash = "f3a4ee0b126b94f2614532a77cb002b97434e0bd52c67ff88b0f4e468447f2de"
 
 [[files]]
 file = "config/ftbbackups2.json"
@@ -334,6 +334,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "eff372a9c4a8cb37ebbcd4bad6d4e9ec6fd6f06930a7a77e72fede477463f60b"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
 
 [[files]]
