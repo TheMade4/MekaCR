@@ -6,7 +6,7 @@ hash = "81cbae84a29ce7e770bf2bc7b178e50bda0ce8de6067aba661b0bc7b05b562f8"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f3a4ee0b126b94f2614532a77cb002b97434e0bd52c67ff88b0f4e468447f2de"
+hash = "4d0f1dbddd76ed164a503f9855654cabbe4b7c63230273ad2e662755ebc14bd3"
 
 [[files]]
 file = "config/ftbbackups2.json"

@@ -1,12 +1,12 @@
 name = "MekaCR"
 author = "TheMade4"
-version = "1.1.1"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "950d440a1dd2705cbc23746cf0f749ef895cf4a1b6acdecc51cd0676da413a7b"
+hash = "86f47306a51a3f31977d7fe30ed0284caed00241f4a40217de8ac73ea36cd09d"
 
 [versions]
 forge = "47.3.7"
