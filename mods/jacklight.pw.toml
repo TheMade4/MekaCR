@@ -1,0 +1,9 @@
+name = "Jacklight"
+filename = "jacklight-forge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TheMade4/Jacklight/releases/latest/download/jacklight-forge-1.0.0.jar"
+
+hash-format = "sha256"
+hash = "8318bd1874c979c41092a26d3527cdadae24676f4f4d60c7c32f8dfb8a749c7b"
