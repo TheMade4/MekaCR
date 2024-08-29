@@ -17,10 +17,6 @@ file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
 hash = "f08ed32fa02ed2ca99721e69db6964636824f2e0c499fb0c33bc070450a77264"
 
 [[files]]
-file = "mods/Connector-1.0.0-beta.45+1.20.1.jar"
-hash = "82f095b316712587b1fda476c11ec27c1bf663d64c7dfd8ecb5337d8c24ddd14"
-
-[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "7d58f2f1164fe878f50da49f24f28f922303a73143e504ac9e2d48cc98bcfb10"
 metafile = true
@@ -116,10 +112,6 @@ hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
 metafile = true
 
 [[files]]
-file = "mods/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "99dbce6aa6827a777d78a898cd6b8d7c7d9ae1d1fd41b813750eefaead8c9c8d"
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
@@ -152,6 +144,11 @@ metafile = true
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "2e6864b02f2a52d0c5db3aca95f93017a2c99b932a727d2d77e4342796b67a76"
+metafile = true
+
+[[files]]
+file = "mods/connectored-c2me-(c2me-fork-for-connector).pw.toml"
+hash = "29707b0d591793d493d2378181d247358c00fc51bd77668b63cda8aa6f8c343d"
 metafile = true
 
 [[files]]
@@ -542,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "a84f8e46ba2d693bfbdec682ca66213e2e0783395c9af34f8b22d460d3952a4c"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "b27c18503a096fba94701b4335a2cce1f66c25b38c0f7fb7215d21ff36b434dc"
 metafile = true
 
 [[files]]
