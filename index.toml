@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "6266a2dccf05c5a931d68f6124460102fba26c9d9dcabac3be44567c392cdc29"
+hash = "6c1abc7203698f420023a1655bc803113babd2dc00b2ced0e071de8b46147b5a"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
-hash = "1947cc239ea0752b836011ef95182e588e45b38ab793c9c24c6f468f85f54052"
+hash = "34c1b2e460b679d6995848762735705ba1d8854afbdbc05173b11eb7287d81d8"
 metafile = true
 
 [[files]]
