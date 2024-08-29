@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/jacklight-forge-1.0.0.jar"
-hash = "f81e3fbf470d5271f9a167e7375d47e23fc7e9e01d132014c530745b62c24a1d"
+hash = "8318bd1874c979c41092a26d3527cdadae24676f4f4d60c7c32f8dfb8a749c7b"
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
